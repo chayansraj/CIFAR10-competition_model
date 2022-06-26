@@ -1,6 +1,7 @@
 # CIFAR10-competition_model
 By: TheodorEmanuelsson and chayansraj
 
+
 Model for the inclass competition in Neural Networks and Learning Systems course at Linköping Univerity, spring 2022. The competition allows for only training for 50 epochs. The model is build using tensorflow, keras and utilized a RTX 2080 8GB GPU via CUDA.
 
 ## The model
